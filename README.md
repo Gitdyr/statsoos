@@ -11,5 +11,11 @@ It is possible to delete unwanted entries.
 The module was created back in 2012 but seems to work fine with newer
 versions of PrestaShop.
 
+## Installation
+
+Download the ZIP file here from GitHub. Unpack the file to the modules
+directory in your shop and rename the directory to get rid of the
+"-main" part. Now you can install the module from back office.
+
 ## License
 MIT License. Copyright (c) 2024 Kjeld Borch Egevang
